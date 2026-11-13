@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <rect width="1024" height="1024" fill="#0B3D91"/>
+  <g fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round">
+    <!-- cassette body -->
+    <rect x="172" y="250" width="680" height="430" rx="48" stroke-width="22"/>
+    <!-- label window = pitch -->
+    <rect x="242" y="310" width="540" height="230" rx="18" stroke-width="12"/>
+    <line x1="512" y1="310" x2="512" y2="540" stroke-width="8"/>
+    <circle cx="512" cy="425" r="46" stroke-width="8"/>
+    <rect x="242" y="370" width="54" height="110" stroke-width="8"/>
+    <rect x="728" y="370" width="54" height="110" stroke-width="8"/>
+    <!-- tactical run -->
+    <path d="M346 474 C 410 330, 570 330, 650 420" stroke-width="10" stroke-dasharray="4 22"/>
+    <path d="M646 384 L 652 422 L 616 410" stroke-width="10"/>
+    <!-- players -->
+    <circle cx="330" cy="495" r="17" stroke-width="9"/>
+    <path d="M676 452 l 28 28 M704 452 l -28 28" stroke-width="10"/>
+    <!-- reels / tape -->
+    <circle cx="372" cy="612" r="34" stroke-width="12"/>
+    <circle cx="652" cy="612" r="34" stroke-width="12"/>
+    <path d="M300 680 L 336 640 M724 680 L 688 640" stroke-width="12"/>
+    <line x1="406" y1="612" x2="618" y2="612" stroke-width="12"/>
+  </g>
+  <text x="512" y="808" text-anchor="middle" fill="#FFFFFF"
+        font-family="Montserrat, 'Helvetica Neue', Arial, sans-serif" font-weight="800"
+        font-size="84" letter-spacing="10">TACTICS</text>
+  <text x="512" y="884" text-anchor="middle" fill="#7FB2FF"
+        font-family="Montserrat, 'Helvetica Neue', Arial, sans-serif" font-weight="600"
+        font-size="46" letter-spacing="22">ON TAPE</text>
+</svg>
